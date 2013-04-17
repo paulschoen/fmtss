@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  item: 1
+  quantity: 1
+  description: MyString
+  part_number: MyString
+  oem_part_number: MyString
+
+two:
+  item: 1
+  quantity: 1
+  description: MyString
+  part_number: MyString
+  oem_part_number: MyString
